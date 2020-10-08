@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "Trabalho",
+			"path": "../Trabalho"
 		}
 	],
 	"settings": {}
